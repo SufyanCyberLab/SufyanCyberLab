@@ -1,4 +1,5 @@
-## Hi I'm Sufyan
+## Hi I'm Sufyan Nadeem Hussain
+A bit of myself - I am a graduate student who acheived a first-class Bachelor's in Cybersecurity.
 🎯CyberSecurity Enthusiast|Ethical Hacking|SOC Analyst
 
 Projects
