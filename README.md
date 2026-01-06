@@ -4,13 +4,16 @@ A bit of myself - I am a graduate student who acheived a first-class Bachelor's 
 
 🎯CyberSecurity Enthusiast|Ethical Hacking|SOC Analyst
 
-Projects
+What I will Learn
 
-Network Fundamentals – basics of TCP/IP, ports and protocols.
+Learn SOC tools and operations
 
-Linux Fundamentals – essential OS skills for all cybersecurity roles. 
+Explore network and web attacks
 
-Web Fundamentals – important for web-app exploitation practice.
+Monitor endpoints for threats
+
+Utilise SIEM to handle incidents
+
 
 
 
