@@ -1,18 +1,21 @@
-Hi, I'm Sufyan Nadeem Hussain 
+About Me
 
-A bit of myself - I am a graduate student who acheived a first-class Bachelor's in Cybersecurity.
+Hi, I’m Sufyan Nadeem Hussain.
+I am a graduate with a first-class Bachelor’s degree in Cybersecurity, passionate about defending systems and exploring real-world threats.
 
-🎯CyberSecurity Enthusiast|SOC Analyst
+🎯 Cybersecurity Enthusiast | Aspiring SOC Analyst
 
-What I will Learn
+My Learning Goals
 
-Learn SOC tools and operations
+Gain hands-on experience with SOC tools and operations
 
-Explore network and web attacks
+Explore network and web attacks to understand attacker behavior
 
-Monitor endpoints for threats
+Monitor endpoints for potential threats
 
-Utilise SIEM to handle incidents
+Utilize SIEM platforms to detect and respond to incidents
+
+I am building this portfolio to showcase my practical skills, labs, and projects, demonstrating my readiness for real-world SOC roles.
 
 
 
